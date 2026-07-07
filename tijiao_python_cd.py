@@ -8,3 +8,4 @@ for number in range(100, 1000):
     if cubes[hundreds] + cubes[tens] + cubes[ones] == number:
         print(number)
 #二次修改
+#第三次提交：添加苹果
