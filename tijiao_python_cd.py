@@ -7,3 +7,4 @@ for number in range(100, 1000):
     ones = number % 10
     if cubes[hundreds] + cubes[tens] + cubes[ones] == number:
         print(number)
+#二次修改
